@@ -1,0 +1,72 @@
+{
+    "name": "Bill's Salsa",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "item": "bell pepper"
+        },
+        {
+            "quantity": "1 or more",
+            "item": "hot peppers"
+        },
+        {
+            "quantity": "1",
+            "item": "white onion"
+        },
+        {
+            "quantity": "1",
+            "item": "whole lemon or lime",
+            "notes": "peeled"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "apple cider vinegar"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "cilantro",
+            "notes": "optional"
+        },
+        {
+            "quantity": "6 cloves",
+            "item": "garlic"
+        },
+        {
+            "quantity": "2 cans",
+            "item": "tomatoes",
+            "notes": "28 oz each"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "item": "cinnamon"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "item": "cayenne"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cumin"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "coriander"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "black pepper"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "black cumin"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "chili powder"
+        }
+    ],
+    "instructions": [
+        "Blend all ingredients in a blender until smooth.",
+        "Adjust spices to taste and refrigerate until ready to use."
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Bill's Vegan Chili",
+    "ingredients": [
+        {
+            "quantity": "6 cups",
+            "item": "Bill's Black Beans and Brown Rice"
+        },
+        {
+            "quantity": "1 can",
+            "item": "tomatoes",
+            "notes": "28 oz"
+        },
+        {
+            "quantity": "1 large",
+            "item": "onion",
+            "notes": "diced"
+        },
+        {
+            "quantity": "1 large",
+            "item": "bell pepper",
+            "notes": "diced"
+        },
+        {
+            "quantity": "3 cloves",
+            "item": "garlic",
+            "notes": "minced"
+        }
+    ],
+    "instructions": [
+        "Saut\u00e9 onion and bell pepper for 5 minutes.",
+        "Add garlic and cook for 1 minute.",
+        "Add mixture to beans and rice.",
+        "Add canned tomatoes and 28 oz water.",
+        "Cook on low for 4 hours, adding water as needed to adjust consistency."
+    ]
+}

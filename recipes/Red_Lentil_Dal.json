@@ -1,0 +1,87 @@
+{
+    "name": "Red Lentil Dal",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "red lentils",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "3 cups",
+            "item": "water",
+            "notes": "room temperature"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "vegetable oil"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "cumin seeds"
+        },
+        {
+            "quantity": "1",
+            "item": "2-inch cinnamon stick"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "yellow onion",
+            "notes": "diced"
+        },
+        {
+            "quantity": "1",
+            "item": "green chili pepper",
+            "notes": "stemmed, seeded, minced"
+        },
+        {
+            "quantity": "4 cloves",
+            "item": "garlic",
+            "notes": "minced"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "ginger root",
+            "notes": "finely minced"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "ground turmeric"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "ground cardamom"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "paprika"
+        },
+        {
+            "quantity": "3/4 teaspoon",
+            "item": "kosher salt"
+        },
+        {
+            "quantity": "1 medium",
+            "item": "tomato",
+            "notes": "diced"
+        },
+        {
+            "quantity": "1/2",
+            "item": "lemon",
+            "notes": "juice of"
+        },
+        {
+            "quantity": "as needed",
+            "item": "cilantro leaves",
+            "notes": "chopped, for garnish"
+        }
+    ],
+    "instructions": [
+        "Place the rinsed lentils in a large saucepan with water. Cook on medium heat for 20 minutes, keeping it at a gentle simmer.",
+        "Heat oil in a medium skillet over medium heat. Add cumin seeds and cinnamon stick; cook for 60-90 seconds until fragrant.",
+        "Add onion, green chili pepper, garlic, and ginger. Cook for 4-5 minutes until onions turn translucent.",
+        "Add turmeric, cardamom, paprika, salt, and tomato. Cook for 2-3 minutes until tomato begins to break down. Discard the cinnamon stick.",
+        "Drain any excess water from the lentils, leaving some water in. Stir the spiced onion mixture into the lentils.",
+        "Add lemon juice, stir, and adjust salt and water consistency as needed.",
+        "Garnish with cilantro and serve with basmati rice and naan."
+    ]
+}

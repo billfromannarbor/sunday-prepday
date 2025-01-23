@@ -1,0 +1,56 @@
+{
+    "name": "Bill's Black Bean and Brown Rice",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "brown rice",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "black beans",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "1 1/2 cups",
+            "item": "salsa"
+        },
+        {
+            "quantity": "3 cups",
+            "item": "water"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "item": "cinnamon"
+        },
+        {
+            "quantity": "1/4 teaspoon",
+            "item": "cayenne"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cumin"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "coriander"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "black pepper"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "black cumin"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "chili powder"
+        }
+    ],
+    "instructions": [
+        "Combine rinsed rice and beans in the Instant Pot.",
+        "Add water, salsa, and spices.",
+        "Cook on high pressure for 22 minutes and naturally release for 20-25 minutes."
+    ]
+}

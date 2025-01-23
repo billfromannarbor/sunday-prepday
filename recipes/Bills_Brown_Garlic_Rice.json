@@ -1,0 +1,30 @@
+{
+    "name": "Bill's Brown Garlic Rice",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "brown rice",
+            "notes": "rinsed and soaked for 8-12 hours"
+        },
+        {
+            "quantity": "2 cloves",
+            "item": "garlic"
+        },
+        {
+            "quantity": "1 1/4 cups",
+            "item": "water"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "olive oil"
+        }
+    ],
+    "instructions": [
+        "Rinse rice until water runs clear and soak for 8-12 hours.",
+        "Heat pot using saut\u00e9 setting for 1 minute. Add oil and swirl to coat.",
+        "Add chopped garlic and rice. Saut\u00e9 for 5-7 minutes until golden, stirring frequently.",
+        "Add water, secure the lid, and close the pressure valve.",
+        "Cook on high pressure for 22 minutes. Naturally release pressure for 10 minutes, then release any remaining pressure.",
+        "Fluff rice with a fork and serve."
+    ]
+}
