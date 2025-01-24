@@ -8,16 +8,34 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     padding: 20px;
-    max-width: 800px;
     margin: 0 auto;
-    background-color: #f5f5f5;
+    background: linear-gradient(135deg, #9370DB 0%, #483D8B 100%);
+    min-height: 100vh;
+    position: relative;
+}
+
+body::before {
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('daynaArt.png');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.2;
+    z-index: -1;
 }
 
 .container {
-    background-color: white;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background-color: rgba(255, 255, 255, 0.95);
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
 }
 
 header {
@@ -25,63 +43,105 @@ header {
     text-align: center;
 }
 
-.recipe-card {
-    border: 1px solid #ddd;
-    padding: 15px;
+header h1 {
+    color: #483D8B;
+    font-size: 2.5em;
     margin-bottom: 20px;
-    border-radius: 5px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-card {
+    border: 1px solid #e0e0e0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
     background-color: white;
     transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+    overflow: hidden;
+}
+
+.recipe-card::after {
+    content: '';
+    position: absolute;
+    right: -20px;
+    bottom: -20px;
+    width: 100px;
+    height: 100px;
+    background-image: url('daynaArt.png');
+    background-size: cover;
+    opacity: 0.1;
+    transform: rotate(45deg);
 }
 
 .recipe-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 12px rgba(72, 61, 139, 0.2);
 }
 
 .recipe-card h2 {
-    margin-bottom: 10px;
-    color: #333;
-}
-
-.recipe-details {
-    margin: 20px 0;
-}
-
-.ingredients-list, .instructions-list {
-    padding-left: 20px;
-    margin: 10px 0;
+    color: #483D8B;
+    margin-bottom: 15px;
 }
 
 .view-recipe-link {
     display: inline-block;
-    margin-top: 10px;
-    color: #0066cc;
+    margin-top: 15px;
+    color: #9370DB;
     text-decoration: none;
     font-weight: 500;
+    padding: 5px 0;
+    position: relative;
 }
 
-.view-recipe-link:hover {
-    text-decoration: underline;
+.view-recipe-link::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, #9370DB, #483D8B);
+    transition: width 0.3s ease;
 }
 
-.error-details {
-    color: #cc0000;
-    font-family: monospace;
-    margin-top: 10px;
+.view-recipe-link:hover::after {
+    width: 100%;
 }
 
-.ingredients-list a {
-    color: #0066cc;
+/* Recipe details page specific styles */
+.ingredients-list, .instructions-list {
+    padding-left: 25px;
+    margin: 15px 0;
+}
+
+.ingredients-list li, .instructions-list li {
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.ingredients-list li::before {
+    content: '•';
+    color: #9370DB;
+    position: absolute;
+    left: -15px;
+}
+
+.instructions-list li {
+    padding-left: 10px;
+}
+
+/* Back link on recipe page */
+header a {
+    display: inline-block;
+    color: #9370DB;
     text-decoration: none;
+    margin-bottom: 20px;
+    transition: color 0.3s;
 }
 
-.ingredients-list a:hover {
-    text-decoration: underline;
-}
-
-.ingredients-list a:visited {
-    color: #0066cc;
+header a:hover {
+    color: #483D8B;
 }
 
 @media (max-width: 600px) {
@@ -90,6 +150,20 @@ header {
     }
     
     .container {
-        padding: 15px;
+        padding: 20px;
     }
+    
+    header h1 {
+        font-size: 2em;
+    }
+}
+
+.attribution {
+    text-align: center;
+    color: #483D8B;
+    font-size: 0.9em;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(72, 61, 139, 0.2);
+    font-style: italic;
 } 
