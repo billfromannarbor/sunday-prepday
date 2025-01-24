@@ -8,12 +8,12 @@
         "name": "Bill's Black Bean and Brown Rice"
     },
     {
-        "id": "Bills_Breakfast",
-        "name": "Bill's Breakfast"
-    },
-    {
         "id": "Bills_Brown_Garlic_Rice",
         "name": "Bill's Brown Garlic Rice"
+    },
+    {
+        "id": "Bills_MorningOnTheMove",
+        "name": "Bill's Morning On The Move"
     },
     {
         "id": "Bills_Salsa",
