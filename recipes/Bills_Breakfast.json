@@ -1,0 +1,58 @@
+{
+    "name": "Bill's Breakfast",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "dates"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "blueberries"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "raisins"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "cranberries",
+            "notes": "dried"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "sunflower seeds"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "pumpkin seeds"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "walnuts"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "pecans"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "flaxseed",
+            "notes": "ground"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "wheat germ",
+            "notes": "ground"
+        },
+        {
+            "quantity": "2 1/2 cup",
+            "item": "rolled oats"
+        }
+    ],
+    "instructions": [
+        "Put the dates in the food processor and process until the dates are reduced to blueberry-sized pieces.",
+        "Add in berries, seeds, and nuts. Pulse the food processor a few times to break them up.",
+        "Add the flaxseed, wheat germ, and rolled oats. Pulse enough to mix.",
+        "Empty into a storage container."
+    ]
+} 

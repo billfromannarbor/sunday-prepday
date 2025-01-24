@@ -1,7 +1,15 @@
 [
     {
+        "id": "Bills_Baked_Tofu",
+        "name": "Bill's Baked Tofu"
+    },
+    {
         "id": "Bills_Black_Bean_and_Brown_Rice",
         "name": "Bill's Black Bean and Brown Rice"
+    },
+    {
+        "id": "Bills_Breakfast",
+        "name": "Bill's Breakfast"
     },
     {
         "id": "Bills_Brown_Garlic_Rice",
