@@ -21,6 +21,8 @@ async function loadRecipeDetails() {
         const recipeIndex = await indexResponse.json();
         const recipe = await recipeResponse.json();
         
+        // Update both the page title and the h1
+        document.title = recipe.name;
         displayRecipeDetails(recipe, recipeIndex);
     } catch (error) {
         console.error('Error loading recipe:', error);
