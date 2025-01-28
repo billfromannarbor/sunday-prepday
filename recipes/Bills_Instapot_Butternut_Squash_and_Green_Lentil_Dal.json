@@ -12,7 +12,7 @@
             "notes": "rinsed"
         },
         {
-            "quantity": "1 large can",
+            "quantity": "2 large can",
             "item": "tomatoes"
         },
         {
@@ -74,7 +74,8 @@
         "Add the onion and saute for 5 minutes.",
         "Add the garlic and saute for another 1 minute.",
         "Add in the ginger, turmeric, and garam masala and saute for another 30 seconds.",
-        "Add the butternut squash, lentils, salt, coconut milk, and tomatoes stir it all together.",
+        "Add the butternut squash, lentils, salt, coconut milk, and tomatoes", 
+        "Stir it all together.",
         "Add the tahini to the top.",
         "Pressure cook for 12 minutes."
     ]
