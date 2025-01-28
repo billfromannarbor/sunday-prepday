@@ -1,0 +1,81 @@
+{
+    "name": "Bill's Instapot Butternut Squash and Green Lentil Dal",
+    "ingredients": [
+        {
+            "quantity": "1",
+            "item": "butternut squash",
+            "notes": "5 to 6 cups when cubed"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "red lentils",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "1 large can",
+            "item": "tomatoes"
+        },
+        {
+            "quantity": "1 can",
+            "item": "coconut milk",
+            "notes": "lite"
+        },
+        {
+            "quantity": "1",
+            "item": "onion",
+            "notes": "diced"
+        },
+        {
+            "quantity": "6 cloves",
+            "item": "garlic"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "dried ginger"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cayenne pepper"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "turmeric"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cumin seeds"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "garam masala"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "salt"
+        },
+        {
+            "quantity": "3 tablespoons",
+            "item": "tahini"
+        },
+        {
+            "quantity": "1 1/2 tablespoons",
+            "item": "coconut oil",
+            "notes": "divided"
+        }
+    ],
+    "instructions": [
+        "Give yourself 30 minutes to peel the squash, scoop out the insides and roughly cube it.",
+        "Rinse 1 cup of red lentils.",
+        "Turn on the instant pot to Saute.",
+        "Once it's hot, add 1/2 tablespoon of coconut oil.",
+        "When it's hot, add the 1 tsp cumin seeds.",
+        "Let them cook for 1 minute.",
+        "Add 1 teaspoon of the coconut oil.",
+        "Add the onion and saute for 5 minutes.",
+        "Add the garlic and saute for another 1 minute.",
+        "Add in the ginger, turmeric, and garam masala and saute for another 30 seconds.",
+        "Add the butternut squash, lentils, salt, coconut milk, and tomatoes stir it all together.",
+        "Add the tahini to the top.",
+        "Pressure cook for 12 minutes."
+    ]
+} 
