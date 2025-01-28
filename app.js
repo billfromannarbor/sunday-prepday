@@ -31,7 +31,7 @@ function displayRecipes(recipes) {
     recipeList.innerHTML = recipes.map(recipe => `
         <div class="recipe-card">
             <h2>${recipe.name}</h2>
-            <a href="recipe.html?id=${recipe.id}" class="view-recipe-link">View Recipe →</a>
+            <a href="recipe.html?id=${recipe.id}" class="view-recipe-link">${recipe.name} →</a>
         </div>
     `).join('');
 } 
