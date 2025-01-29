@@ -166,4 +166,21 @@ header a:hover {
     padding-top: 20px;
     border-top: 1px solid rgba(72, 61, 139, 0.2);
     font-style: italic;
+}
+
+.recommendation {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.book-cover {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.recommendation p {
+    color: #483D8B;
+    font-size: 1em;
+    margin: 5px 0;
 } 
