@@ -1,0 +1,32 @@
+{
+    "name": "Homemade Ginger-Garlic Paste",
+    "ingredients": [
+        {
+            "quantity": "1/2 cup",
+            "item": "garlic cloves",
+            "notes": "peeled"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "fresh ginger",
+            "notes": "peeled"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "canola oil"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "salt"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "vinegar"
+        }
+    ],
+    "instructions": [
+        "Peel the garlic cloves.",
+        "Peel the ginger and chop it into small pieces for easier blending.",
+        "Add the ginger, garlic, oil, and salt to the food processor and blend until it's smooth."
+    ]
+} 

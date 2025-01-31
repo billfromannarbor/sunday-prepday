@@ -1,0 +1,87 @@
+{
+    "name": "Mattar Aloo (Potato and Peas Curry)",
+    "ingredients": [
+        {
+            "quantity": "2 medium",
+            "item": "potatoes",
+            "notes": "peeled and diced"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "green peas",
+            "notes": "fresh or frozen"
+        },
+        {
+            "quantity": "1 medium",
+            "item": "onion",
+            "notes": "finely chopped"
+        },
+        {
+            "quantity": "2",
+            "item": "tomatoes",
+            "notes": "pureed or 1/2 cup canned tomato puree"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "ginger-garlic paste"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "oil",
+            "notes": "vegetable or mustard oil"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cumin seeds"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "turmeric powder"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "coriander powder"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "garam masala"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "red chili powder",
+            "notes": "adjust to taste"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "cumin powder"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "salt",
+            "notes": "adjust to taste"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "water",
+            "notes": "adjust for desired gravy consistency"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "cilantro",
+            "notes": "optional, for garnish"
+        }
+    ],
+    "instructions": [
+        "In a pan, heat oil over medium heat.",
+        "Add cumin seeds and let them sizzle for a few seconds until fragrant.",
+        "Add chopped onions and sauté until golden brown.",
+        "Stir in the ginger-garlic paste and cook for 1-2 minutes until the raw smell disappears.",
+        "Add the pureed tomatoes, turmeric, coriander powder, cumin powder, red chili powder, and salt.",
+        "Cook until the mixture thickens and oil begins to separate from the spice mixture (about 5 minutes).",
+        "Add the diced potatoes and mix well with the masala.",
+        "Pour in water, cover, and simmer for about 10-15 minutes, stirring occasionally.",
+        "Once the potatoes are almost tender, add the green peas.",
+        "Cook for another 5 minutes until the peas are soft and the gravy is thickened.",
+        "Stir in garam masala and mix well."
+    ]
+} 
