@@ -1,0 +1,62 @@
+{
+    "name": "Empanadas with Bill's Vegan Chili",
+    "ingredients": [
+        {
+            "quantity": "3 cups",
+            "item": "whole wheat flour",
+            "notes": "or all-purpose flour"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "salt"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "baking powder"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "coconut oil",
+            "notes": "or vegetable shortening, cold"
+        },
+        {
+            "quantity": "3/4 cup",
+            "item": "cold water",
+            "notes": "adjust as needed"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "apple cider vinegar"
+        },
+        {
+            "quantity": "1-2 tablespoons",
+            "item": "Bill's Vegan Chili",
+            "notes": "for filling"
+        },
+        {
+            "quantity": "as needed",
+            "item": "plant-based milk",
+            "notes": "for brushing"
+        },
+        {
+            "quantity": "as needed",
+            "item": "smoked paprika",
+            "notes": "for sprinkling"
+        }
+    ],
+    "instructions": [
+        "In a large bowl, mix the flour, salt, and baking powder.",
+        "Cut in the cold coconut oil or vegetable shortening until the mixture resembles coarse crumbs.",
+        "Add vinegar and cold water gradually, mixing until a dough forms. Knead for about 3–5 minutes until smooth.",
+        "Wrap the dough in plastic wrap and let it rest in the refrigerator for at least 30 minutes.",
+        "Preheat oven to 375°F (190°C).",
+        "Roll out the dough on a lightly floured surface to about ⅛-inch thickness.",
+        "Cut out circles (about 4–6 inches in diameter).",
+        "Place 1–2 tablespoons of the filling in the center of each circle.",
+        "Fold the dough over the filling, forming a half-moon shape. Press the edges with a fork or pinch them closed.",
+        "Brush the tops with plant-based milk and sprinkle smoked paprika for color.",
+        "Arrange on a baking sheet lined with parchment paper.",
+        "Bake for 20–25 minutes or until golden brown.",
+        "Let cool for 5 minutes before serving."
+    ]
+} 
