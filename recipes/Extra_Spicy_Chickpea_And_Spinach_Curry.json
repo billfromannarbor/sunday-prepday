@@ -1,0 +1,90 @@
+{
+    "name": "Extra-Spicy Chickpea & Spinach Curry",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "dried chickpeas",
+            "notes": "Cooked in Instant Pot (no-soak: 40-45 min, soaked: 12-15 min)"
+        },
+        {
+            "quantity": "1 small",
+            "item": "onion",
+            "notes": "Diced"
+        },
+        {
+            "quantity": "2 cloves",
+            "item": "garlic",
+            "notes": "Minced"
+        },
+        {
+            "quantity": "1-inch piece",
+            "item": "ginger",
+            "notes": "Grated"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cumin"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "turmeric"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "paprika"
+        },
+        {
+            "quantity": "1-2 teaspoons",
+            "item": "cayenne pepper"
+        },
+        {
+            "quantity": "1-2 teaspoons",
+            "item": "red pepper flakes"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "garam masala"
+        },
+        {
+            "quantity": "1 can",
+            "item": "diced tomatoes",
+            "notes": "or 2 fresh tomatoes, chopped"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "coconut milk"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "water or vegetable broth"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "soy sauce"
+        },
+        {
+            "quantity": "2 cups",
+            "item": "fresh spinach",
+            "notes": "or 1 cup frozen"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "black pepper"
+        },
+        {
+            "quantity": "1-2 tablespoons",
+            "item": "sriracha",
+            "notes": "Stirred in at the end"
+        }
+    ],
+    "instructions": [
+        "Sauté the onion in a pan over medium heat for 3 minutes until soft.",
+        "Add garlic and ginger, cooking for another minute.",
+        "Stir in cumin, turmeric, paprika, cayenne, red pepper flakes, and garam masala. Cook for 30 seconds until fragrant.",
+        "Add diced tomatoes and let simmer for 3-4 minutes.",
+        "Stir in the cooked chickpeas, coconut milk, and water/broth. Simmer for 10 minutes.",
+        "Add the spinach and cook until wilted, about 2 minutes.",
+        "Stir in the soy sauce and sriracha at the end. Taste and adjust seasoning.",
+        "Serve as is or over brown rice."
+    ]
+}
