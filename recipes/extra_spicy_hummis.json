@@ -1,0 +1,87 @@
+{
+    "name": "Extra Spicy Hummus",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "dried chickpeas",
+            "notes": "Soaked overnight with baking soda, cooked in Instant Pot for 15 min with natural release"
+        },
+        {
+            "quantity": "3 cups",
+            "item": "water",
+            "notes": "Used for cooking chickpeas"
+        },
+        {
+            "quantity": "1 clove",
+            "item": "garlic",
+            "notes": "Added during pressure cooking"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "salt",
+            "notes": "Optional, added during cooking"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "tahini"
+        },
+        {
+            "quantity": "2–3 tablespoons",
+            "item": "lemon juice"
+        },
+        {
+            "quantity": "2 cloves",
+            "item": "garlic",
+            "notes": "Minced, added during blending"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "ground cumin"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "salt"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "black pepper"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "olive oil"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "cayenne pepper"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "smoked paprika"
+        },
+        {
+            "quantity": "1 small",
+            "item": "red chili pepper",
+            "notes": "Deseeded and chopped, or substitute with 1/2 tsp red pepper flakes"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "sriracha",
+            "notes": "Or harissa paste"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "reserved chickpea cooking liquid",
+            "notes": "Use to thin the hummus while blending"
+        }
+    ],
+    "instructions": [
+        "Add soaked chickpeas, 3 cups water, 1 garlic clove, and salt (optional) to Instant Pot.",
+        "Pressure cook on High for 15 minutes. Let pressure release naturally for 10–15 minutes, then manually release the rest.",
+        "Drain the chickpeas and reserve 1/2 cup of the cooking liquid.",
+        "In a food processor, add the cooked chickpeas, tahini, lemon juice, garlic, cumin, salt, black pepper, olive oil, cayenne, paprika, chopped red chili, and sriracha.",
+        "Blend, adding reserved chickpea liquid gradually until smooth and creamy.",
+        "Taste and adjust seasoning or spice level as desired.",
+        "Let the hummus rest for 30 minutes to allow flavors to meld.",
+        "Garnish with olive oil, paprika or chili flakes, and whole chickpeas if desired. Serve with pita, fresh vegetables, or chips."
+    ]
+}
