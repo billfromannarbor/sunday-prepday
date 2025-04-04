@@ -1,0 +1,79 @@
+{
+    "name": "Spicy Black Bean Burgers (Instant Pot + Baked Option)",
+    "ingredients": [
+        {
+            "quantity": "3/4 cup",
+            "item": "dried black beans",
+            "notes": "Cooked in Instant Pot with 2 cups water and 1 bay leaf, 30 min high pressure + 15-20 min natural release"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "onion",
+            "notes": "Finely chopped"
+        },
+        {
+            "quantity": "2 cloves",
+            "item": "garlic",
+            "notes": "Minced"
+        },
+        {
+            "quantity": "1",
+            "item": "chipotle pepper in adobo sauce",
+            "notes": "Minced (or 1–2 tsp adobo sauce)"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "tomato paste"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "soy sauce or tamari"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "ground flaxseed",
+            "notes": "Mixed with 2.5 tbsp water and rested 10 minutes (or use 1 egg)"
+        },
+        {
+            "quantity": "1/2 cup",
+            "item": "rolled oats"
+        },
+        {
+            "quantity": "1/4 cup",
+            "item": "chopped walnuts",
+            "notes": "Optional"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "ground cumin"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "smoked paprika"
+        },
+        {
+            "quantity": "1/2 teaspoon",
+            "item": "chili powder"
+        },
+        {
+            "quantity": "to taste",
+            "item": "salt and black pepper"
+        },
+        {
+            "quantity": "as needed",
+            "item": "olive oil or cooking spray",
+            "notes": "For baking or pan-frying"
+        }
+    ],
+    "instructions": [
+        "Cook black beans in the Instant Pot: Add beans, 2 cups water, and a bay leaf. Cook on high pressure for 30 minutes, then natural release for 15–20 minutes. Drain and let beans dry well.",
+        "Mix ground flaxseed with water and set aside to thicken for 10 minutes.",
+        "Sauté chopped onion and garlic in a skillet over medium heat until soft, about 3–5 minutes. Let cool slightly.",
+        "In a large bowl, mash the cooked beans with a fork or potato masher, leaving some chunks for texture.",
+        "Add sautéed onions/garlic, chipotle pepper, tomato paste, soy sauce, flax egg, oats, walnuts (if using), and spices. Mix thoroughly.",
+        "Form into 4 patties. If mixture is soft, chill in the fridge for 15–30 minutes to help firm up.",
+        "Preheat oven to 400°F (200°C). Line a baking sheet with parchment or foil and lightly grease.",
+        "Place patties on the sheet, lightly brush or spray tops with oil. Bake for 20–25 minutes, flipping halfway through.",
+        "For extra crisp, broil 1–2 minutes per side at the end. Serve on toasted buns with desired toppings."
+    ]
+}
