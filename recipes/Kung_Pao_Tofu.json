@@ -1,0 +1,103 @@
+{
+    "name": "Kung Pao Tofu",
+    "ingredients": [
+        {
+            "quantity": "1 block (14 oz)",
+            "item": "firm or extra-firm tofu",
+            "notes": "Pressed and cut into cubes"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "soy sauce",
+            "notes": "For marinating tofu"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "cornstarch",
+            "notes": "For coating tofu"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "oil",
+            "notes": "For frying tofu"
+        },
+        {
+            "quantity": "3 tbsp",
+            "item": "soy sauce",
+            "notes": "For the sauce (low sodium preferred)"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "hoisin sauce",
+            "notes": "Optional, adds richness"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "rice vinegar"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "maple syrup",
+            "notes": "Or other liquid sweetener"
+        },
+        {
+            "quantity": "1 tsp",
+            "item": "toasted sesame oil"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "cornstarch",
+            "notes": "Mixed with 2 tbsp water as a slurry"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "oil",
+            "notes": "For stir-frying"
+        },
+        {
+            "quantity": "3–4",
+            "item": "dried red chilies",
+            "notes": "Whole or chopped, adjust for spice"
+        },
+        {
+            "quantity": "2 cloves",
+            "item": "garlic",
+            "notes": "Minced"
+        },
+        {
+            "quantity": "1 inch",
+            "item": "fresh ginger",
+            "notes": "Minced"
+        },
+        {
+            "quantity": "1/2",
+            "item": "red bell pepper",
+            "notes": "Chopped"
+        },
+        {
+            "quantity": "1/2",
+            "item": "green bell pepper",
+            "notes": "Chopped"
+        },
+        {
+            "quantity": "1/4 cup",
+            "item": "unsalted peanuts or cashews"
+        },
+        {
+            "quantity": "2",
+            "item": "green onions",
+            "notes": "Chopped"
+        }
+    ],
+    "instructions": [
+        "Toss tofu cubes with 1 tbsp soy sauce and 1 tbsp cornstarch until evenly coated.",
+        "Heat 1 tbsp oil in a pan and fry tofu until golden brown on all sides, about 5–7 minutes. Remove and set aside.",
+        "Whisk together the sauce: 3 tbsp soy sauce, hoisin (if using), rice vinegar, maple syrup, sesame oil, and cornstarch slurry (1 tbsp cornstarch + 2 tbsp water). Set aside.",
+        "In the same pan, heat 1 tbsp oil and stir-fry dried chilies, garlic, and ginger for 30 seconds until fragrant.",
+        "Add bell peppers and stir-fry for 2 minutes.",
+        "Return tofu to the pan and stir to combine.",
+        "Pour in the sauce and cook until thickened, about 1 minute.",
+        "Stir in peanuts or cashews and chopped green onions.",
+        "Serve hot over brown rice or noodles."
+    ]
+}
