@@ -1,0 +1,73 @@
+{
+    "name": "Vegan Refried Beans (Instant Pot, Dried Beans, Canned Tomatoes)",
+    "ingredients": [
+        {
+            "quantity": "1 ½ cups",
+            "item": "dried pinto beans",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "1 small",
+            "item": "onion",
+            "notes": "chopped"
+        },
+        {
+            "quantity": "3 cloves",
+            "item": "garlic",
+            "notes": "minced"
+        },
+        {
+            "quantity": "1 tsp",
+            "item": "cumin"
+        },
+        {
+            "quantity": "1 tsp",
+            "item": "smoked paprika",
+            "notes": "optional"
+        },
+        {
+            "quantity": "½ tsp",
+            "item": "dried oregano"
+        },
+        {
+            "quantity": "1 tsp",
+            "item": "salt",
+            "notes": "or to taste"
+        },
+        {
+            "quantity": "¼ tsp",
+            "item": "black pepper"
+        },
+        {
+            "quantity": "1 (15 oz) can",
+            "item": "diced tomatoes",
+            "notes": "fire-roasted preferred, with liquid"
+        },
+        {
+            "quantity": "2 cups",
+            "item": "water",
+            "notes": "or low-sodium vegetable broth"
+        },
+        {
+            "quantity": "2 tbsp",
+            "item": "olive oil",
+            "notes": "optional, for sautéing"
+        },
+        {
+            "quantity": "1 tbsp",
+            "item": "lime juice",
+            "notes": "optional, for brightness"
+        }
+    ],
+    "instructions": [
+        "Turn Instant Pot to Sauté mode. Add oil, then onion and garlic. Cook until softened, about 3–4 minutes.",
+        "Add cumin, paprika, oregano, salt, and pepper. Stir for 30 seconds to bloom the spices.",
+        "Add rinsed dried beans, canned tomatoes (with juice), and 3 cups water or broth.",
+        "Cancel Sauté mode. Set Instant Pot to Manual (High Pressure) for 45 minutes.",
+        "Let pressure naturally release for 15 minutes, then manually release any remaining pressure.",
+        "If needed, drain excess liquid (save some in case you want to adjust the texture).",
+        "Mash the beans using a potato masher or immersion blender to your preferred texture.",
+        "Optional: Turn Sauté mode back on and cook mashed beans for 5–10 minutes to thicken.",
+        "Stir in lime juice if using. Taste and adjust seasoning before serving."
+    ]
+}
