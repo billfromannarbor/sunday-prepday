@@ -1,0 +1,30 @@
+{
+    "name": "InstaPot Vegan Yogurt",
+    "ingredients": [
+        {
+            "quantity": "2/3 cup",
+            "item": "Oatmeal"
+        },
+        {
+            "quantity": "2/3 cup",
+            "item": "Raw Unsalted Cashews"
+        },
+        {
+            "quantity": "4 cups",
+            "item": "water"
+        },
+        {
+            "quantity": "2 tbsp",
+            "item": "Vegan Yogurt"
+        }
+    ],
+    "instructions": [
+        "Soak the Oatmeal in 4 cups of water (in the blender carafe) for 1 to 2 hours",
+        "Soak the Cashews separately in water for 1 to 2 hours",
+        "Drain the cashews and add them to the blender carafe",
+        "Blend for 1 to 5 minutes until smooth",
+        "Pour into a thick bottomed pot and heat over medium heat, stir continuously until desired thickness (5 - 10 minutes)",
+        "Place in fridge until cool to the touch",
+        "Pour in the instapot, add the yogurt and put on Yogurt setting for 9 to 10 hours"
+    ]
+}
