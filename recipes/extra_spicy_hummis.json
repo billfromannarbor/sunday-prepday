@@ -30,6 +30,15 @@
             "item": "lemon juice"
         },
         {
+            "quantity": "1 tablespoon",
+            "item": "sriracha",
+            "notes": "Or harissa paste"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "olive oil"
+        },
+        {
             "quantity": "2 cloves",
             "item": "garlic",
             "notes": "Minced, added during blending"
@@ -47,10 +56,6 @@
             "item": "black pepper"
         },
         {
-            "quantity": "2 tablespoons",
-            "item": "olive oil"
-        },
-        {
             "quantity": "1 teaspoon",
             "item": "cayenne pepper"
         },
@@ -62,11 +67,6 @@
             "quantity": "1 small",
             "item": "red chili pepper",
             "notes": "Deseeded and chopped, or substitute with 1/2 tsp red pepper flakes"
-        },
-        {
-            "quantity": "1 tablespoon",
-            "item": "sriracha",
-            "notes": "Or harissa paste"
         },
         {
             "quantity": "1/2 cup",
