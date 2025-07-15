@@ -1,0 +1,37 @@
+{
+    "name": "Date Syrup",
+    "ingredients": [
+        {
+            "quantity": "1 cup",
+            "item": "pitted dates",
+            "notes": "Medjool preferred, or any soft variety"
+        },
+        {
+            "quantity": "1 cup",
+            "item": "water",
+            "notes": "adjust as needed for consistency"
+        },
+        {
+            "quantity": "1/2 tsp",
+            "item": "lemon juice",
+            "notes": "optional, for brightness and preservation"
+        },
+        {
+            "quantity": "1 pinch",
+            "item": "salt",
+            "notes": "optional, enhances flavor"
+        },
+        {
+            "quantity": "1/4 tsp",
+            "item": "vanilla extract",
+            "notes": "optional, for depth"
+        }
+    ],
+    "instructions": [
+        "If your dates are dry, soak them in hot water for 10–15 minutes, then drain.",
+        "Add pitted dates and 1 cup of water to a blender or food processor.",
+        "Blend until smooth, scraping down the sides as needed. Add more water a tablespoon at a time if too thick.",
+        "Optional: Pour the blended mixture into a saucepan and simmer on low heat for 10–15 minutes until thickened and glossy, stirring occasionally.",
+        "Let cool. Store in an airtight container in the refrigerator for up to 2 weeks."
+    ]
+}
