@@ -1,0 +1,20 @@
+{
+  "name": "Flour Tortillas",
+  "ingredients": [
+    { "quantity": "2 cups", "item": "all-purpose flour" },
+    { "quantity": "1/2 tsp", "item": "salt" },
+    { "quantity": "1/2 tsp", "item": "baking powder" },
+    { "quantity": "3 tbsp", "item": "vegetable oil", "notes": "or melted coconut oil or lard" },
+    { "quantity": "3/4 cup", "item": "warm water", "notes": "add gradually as needed" }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, salt, and baking powder.",
+    "Add the oil and mix until crumbly and evenly incorporated.",
+    "Gradually stir in the warm water until a dough forms. It should be soft but not sticky.",
+    "Knead the dough on a lightly floured surface for 3–5 minutes until smooth.",
+    "Cover and let the dough rest for 20–30 minutes.",
+    "Divide into 8 equal balls and roll each into a thin 6–8 inch circle.",
+    "Heat a dry skillet over medium-high heat. Cook each tortilla 30–60 seconds per side until golden spots appear.",
+    "Keep cooked tortillas stacked in a clean towel to stay warm and soft."
+  ]
+}
