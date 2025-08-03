@@ -1,0 +1,23 @@
+{
+  "name": "Vegan Cashew Cheese Sauce with Jalapeño",
+  "ingredients": [
+    { "quantity": "1 cup", "item": "raw cashews", "notes": "soaked 4+ hours or boiled 10 minutes" },
+    { "quantity": "¾ cup", "item": "water", "notes": "plus more to thin if needed" },
+    { "quantity": "¼ cup", "item": "nutritional yeast" },
+    { "quantity": "2 tablespoons", "item": "lemon juice", "notes": "fresh" },
+    { "quantity": "1 tablespoon", "item": "apple cider vinegar" },
+    { "quantity": "½ teaspoon", "item": "garlic powder" },
+    { "quantity": "½ teaspoon", "item": "onion powder" },
+    { "quantity": "½ teaspoon", "item": "smoked paprika", "notes": "optional" },
+    { "quantity": "½ teaspoon", "item": "salt", "notes": "adjust to taste" },
+    { "quantity": "¼ teaspoon", "item": "turmeric", "notes": "optional, for color" },
+    { "quantity": "1 teaspoon", "item": "Dijon mustard", "notes": "optional, for sharpness" },
+    { "quantity": "1", "item": "jalapeño", "notes": "seeded and chopped" }
+  ],
+  "instructions": [
+    "Soak cashews in water for 4–6 hours or boil for 10 minutes to soften. Drain before using.",
+    "Add all ingredients to a high-speed blender. Blend until completely smooth and creamy, about 1–2 minutes. Scrape down sides as needed.",
+    "Taste and adjust salt, lemon juice, or spices. Add more water 1 tablespoon at a time for a thinner sauce.",
+    "Optional: Heat the sauce in a saucepan over medium-low heat, stirring constantly for 3–5 minutes, until thickened and stretchy."
+  ]
+}
