@@ -1,56 +1,69 @@
 {
-    "name": "Stir Fry Sauce with Date Syrup",
-    "ingredients": [
-      {
-        "quantity": "2 tbsp",
-        "item": "soy sauce",
-        "notes": "or tamari for gluten-free option"
-      },
-      {
-        "quantity": "1 tbsp",
-        "item": "rice vinegar",
-        "notes": "or lime juice"
-      },
-      {
-        "quantity": "1 tbsp",
-        "item": "date syrup",
-        "notes": "homemade or store-bought"
-      },
-      {
-        "quantity": "1 tsp",
-        "item": "toasted sesame oil",
-        "notes": ""
-      },
-      {
-        "quantity": "2 tsp",
-        "item": "grated ginger",
-        "notes": "fresh"
-      },
-      {
-        "quantity": "1 tsp",
-        "item": "minced garlic",
-        "notes": "fresh"
-      },
-      {
-        "quantity": "1–2 tsp",
-        "item": "sriracha or chili garlic sauce",
-        "notes": "optional, for heat"
-      },
-      {
-        "quantity": "2 tsp",
-        "item": "cornstarch",
-        "notes": "optional, for thickening"
-      },
-      {
-        "quantity": "2 tbsp",
-        "item": "water",
-        "notes": "to mix with cornstarch"
-      }
-    ],
-    "instructions": [
-      "In a small bowl, whisk together the soy sauce, rice vinegar, date syrup, sesame oil, ginger, garlic, and sriracha (if using).",
-      "If you want to thicken the sauce, dissolve the cornstarch in 2 tbsp water and mix into the sauce.",
-      "Pour the sauce over your stir-fried vegetables and tofu in the last few minutes of cooking.",
-      "Stir constantly and cook for 1–2 minutes until the sauce thickens and evenly coats the ingredients."
-    ]
-  }
+  "name": "Stir Fry Sauce (with Homemade Date Syrup)",
+  "ingredients": [
+    {
+      "quantity": "1 cup",
+      "item": "pitted dates",
+      "notes": "Medjool preferred, or any soft variety"
+    },
+    {
+      "quantity": "1 cup",
+      "item": "water",
+      "notes": "for blending with dates"
+    },
+    {
+      "quantity": "1/2 tsp",
+      "item": "lemon juice",
+      "notes": "optional, for brightness"
+    },
+    {
+      "quantity": "1/2 cup",
+      "item": "soy sauce",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "quantity": "3 tbsp",
+      "item": "rice vinegar",
+      "notes": "or lime juice"
+    },
+    {
+      "quantity": "1 tbsp",
+      "item": "toasted sesame oil",
+      "notes": ""
+    },
+    {
+      "quantity": "1 tbsp",
+      "item": "grated fresh ginger",
+      "notes": ""
+    },
+    {
+      "quantity": "1 tbsp",
+      "item": "minced garlic",
+      "notes": ""
+    },
+    {
+      "quantity": "1–2 tbsp",
+      "item": "sriracha or chili garlic sauce",
+      "notes": "optional, for heat"
+    },
+    {
+      "quantity": "1 tbsp",
+      "item": "cornstarch",
+      "notes": "optional, for thickening"
+    },
+    {
+      "quantity": "4 tbsp",
+      "item": "water",
+      "notes": "to mix with cornstarch"
+    }
+  ],
+  "instructions": [
+    "Prepare the date syrup: If your dates are dry, soak them in hot water for 10–15 minutes, then drain.",
+    "Add pitted dates and 1 cup of water to a blender or food processor. Add lemon juice if using.",
+    "Blend until smooth, adding more water a tablespoon at a time only if needed. You should get 1¼ to 1½ cups of smooth syrup.",
+    "Optional: For a more syrupy texture, simmer the mixture for 10–15 minutes, stirring occasionally.",
+    "In a large bowl or jar, whisk together the soy sauce, rice vinegar, all of the prepared date syrup, sesame oil, ginger, garlic, and sriracha (if using).",
+    "If using cornstarch to thicken the sauce, mix 1 tbsp cornstarch with 4 tbsp water, then stir into the sauce mixture.",
+    "Use immediately in stir-fries, or store in the fridge for up to 1 week. Shake or stir before using."
+  ]
+}
