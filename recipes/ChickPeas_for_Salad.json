@@ -1,0 +1,27 @@
+{
+    "name": "No-Soak Chickpeas for Cold Salad",
+    "ingredients": [
+      { "quantity": "1 ½ cups", "item": "dried chickpeas", "notes": "rinsed, no soaking needed" },
+      { "quantity": "1", "item": "small onion", "notes": "finely chopped" },
+      { "quantity": "3 cloves", "item": "garlic", "notes": "minced" },
+      { "quantity": "1 tsp", "item": "ground coriander" },
+      { "quantity": "1 tsp", "item": "ground cumin" },
+      { "quantity": "½ tsp", "item": "smoked paprika", "notes": "or sweet paprika" },
+      { "quantity": "½ tsp", "item": "turmeric", "notes": "optional" },
+      { "quantity": "1 tsp", "item": "salt", "notes": "or to taste" },
+      { "quantity": "¼ tsp", "item": "black pepper" },
+      { "quantity": "1 can (15 oz)", "item": "diced tomatoes", "notes": "with juice, fire-roasted preferred" },
+      { "quantity": "3 cups", "item": "water", "notes": "or low-sodium vegetable broth" },
+      { "quantity": "2 tbsp", "item": "olive oil", "notes": "optional, for sautéing" },
+      { "quantity": "1 tbsp", "item": "lemon juice", "notes": "or apple cider vinegar" }
+    ],
+    "instructions": [
+      "Turn Instant Pot to Sauté mode. Add olive oil (if using), onion, and garlic. Cook until softened, about 3–4 minutes.",
+      "Add coriander, cumin, paprika, turmeric, salt, and pepper. Stir for 30–60 seconds to bloom the spices.",
+      "Add unsoaked, rinsed chickpeas, diced tomatoes with juice, and 3 cups water or broth. Stir to combine.",
+      "Cancel Sauté mode. Lock the lid and set Instant Pot to Manual (High Pressure) for 45 minutes.",
+      "Let the pressure naturally release for 15 minutes, then manually release any remaining pressure.",
+      "Stir in lemon juice. Adjust seasoning to taste.",
+      "Let cool completely. Store in the fridge and use in cold salads with brown rice, vegetables, and your favorite dressing."
+    ]
+  }
