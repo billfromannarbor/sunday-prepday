@@ -1,0 +1,58 @@
+{
+    "name": "Instant Pot Ethiopian Spicy Peas",
+    "ingredients": [
+        {
+            "quantity": "2 cups",
+            "item": "yellow split peas",
+            "notes": "rinsed"
+        },
+        {
+            "quantity": "1 medium",
+            "item": "onion",
+            "notes": "finely chopped"
+        },
+        {
+            "quantity": "3 cloves",
+            "item": "garlic",
+            "notes": "minced"
+        },
+        {
+            "quantity": "1 tablespoon",
+            "item": "fresh ginger",
+            "notes": "grated"
+        },
+        {
+            "quantity": "2 tablespoons",
+            "item": "olive oil",
+            "notes": "or niter kibbeh if you have it"
+        },
+        {
+            "quantity": "1\u00bd\u20132 tablespoons",
+            "item": "berbere spice",
+            "notes": "adjust to taste"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "paprika",
+            "notes": "optional, for color"
+        },
+        {
+            "quantity": "1 teaspoon",
+            "item": "salt",
+            "notes": "start here, adjust later"
+        },
+        {
+            "quantity": "3 cups",
+            "item": "water or vegetable broth"
+        }
+    ],
+    "instructions": [
+        "Saut\u00e9 aromatics: Set Instant Pot to Saut\u00e9. Add oil, then onions, and cook 5\u20137 minutes until soft and lightly golden.",
+        "Add garlic and ginger; cook 30 seconds.",
+        "Bloom spices: Stir in berbere (and paprika/cumin if using). Cook 30\u201360 seconds until fragrant.",
+        "Pressure cook: Add rinsed split peas, water or broth, and salt. Stir well. Pressure cook on High for 14 minutes.",
+        "Natural release: Let pressure release naturally for 10 minutes, then quick release.",
+        "Mash slightly: Stir vigorously or mash a bit with a spoon. It should be thick and stew-like, not watery.",
+        "Finish: Adjust salt and heat. Optional: a small squeeze of lemon juice."
+    ]
+}
